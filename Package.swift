@@ -23,8 +23,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "iLOQMobileSDKBinary",
-            url: "https://repository.iloq.com:8444/repository/iLOQ_mobile_sdk_public/com/iloq/ios/iLOQMobileSDK/3.1.1987/iLOQMobileSDK-3.1.1987.zip",
-            checksum: "6ab51d8ea281893f1110bedec1aa44db99237abeccdcd9207f83f0c738753495"),
+            url: "https://repository.iloq.com:8444/repository/iLOQ_mobile_sdk_public/com/iloq/ios/iLOQMobileSDK/3.1.1997/iLOQMobileSDK-3.1.1997.zip",
+            checksum: "dadc03effb76139760d270b35f7ccd205536dfa1db6e8e9bf120f3d597a93145"),
         .binaryTarget(
             name: "iLOQLockCommunicationSDKBinary",
             url: "https://repository.iloq.com:8444/repository/iLOQ_mobile_sdk_public/com/iloq/ios/iLOQLockCommunicationSDK/1.0.194/iLOQLockCommunicationSDK-1.0.194.zip",
